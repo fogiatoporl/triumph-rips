@@ -118,7 +118,7 @@ export default function Features() {
           className="text-center mb-20"
         >
           <span className="text-blue-400 font-semibold text-sm tracking-wider uppercase">
-            Why Choose Crowns Cards
+            Why Choose Crown Cards
           </span>
           <h2 className="text-4xl md:text-5xl font-bold mt-4 mb-6">
             The smarter way to{" "}
@@ -151,7 +151,7 @@ export default function Features() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <a
-                  href="https://app.crownscards.org/"
+                  href="https://app.crowncards.org/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl font-semibold hover:shadow-lg hover:shadow-blue-500/25 transition-all"
@@ -332,7 +332,7 @@ export default function Features() {
               dream collections.
             </p>
             <motion.a
-              href="https://app.crownscards.org/"
+              href="https://app.crowncards.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl font-semibold text-lg hover:shadow-xl hover:shadow-blue-500/30 transition-all"

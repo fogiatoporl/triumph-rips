@@ -23,7 +23,7 @@ export default function Footer() {
                   </svg>
                 </div>
               </div>
-              <span className="text-lg font-bold">Crowns Cards</span>
+              <span className="text-lg font-bold">Crown Cards</span>
             </Link>
             <p className="text-slate-400 text-sm leading-relaxed">
               Open digital packs, collect authentic cards, and build your dream
@@ -61,7 +61,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://app.crownscards.org/"
+                  href="https://app.crowncards.org/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
@@ -78,7 +78,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="https://app.crownscards.org/legal/terms"
+                  href="https://app.crowncards.org/legal/terms"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
@@ -88,7 +88,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://app.crownscards.org/legal/privacy"
+                  href="https://app.crowncards.org/legal/privacy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
@@ -98,7 +98,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://app.crownscards.org/legal/responsible-purchasing"
+                  href="https://app.crowncards.org/legal/responsible-purchasing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
@@ -108,7 +108,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://app.crownscards.org/legal/regulatory"
+                  href="https://app.crowncards.org/legal/regulatory"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
@@ -125,10 +125,10 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="text-slate-400 text-sm">
                 <a
-                  href="mailto:support@crownscards.org"
+                  href="mailto:support@crowncards.org"
                   className="hover:text-blue-400 transition-colors"
                 >
-                  support@crownscards.org
+                  support@crowncards.org
                 </a>
               </li>
               <li className="text-slate-400 text-sm">
@@ -144,11 +144,11 @@ export default function Footer() {
         <div className="border-t border-slate-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-slate-500 text-sm">
-              © {new Date().getFullYear()} Crowns Cards, LLC. All Rights
+              © {new Date().getFullYear()} Crown Cards, LLC. All Rights
               Reserved.
             </p>
             <p className="text-slate-600 text-xs text-center md:text-right max-w-xl">
-              Crowns Cards is for users aged 18+. The platform may be restricted
+              Crown Cards is for users aged 18+. The platform may be restricted
               in certain jurisdictions. Please review our terms and your local
               laws before using our services.
             </p>

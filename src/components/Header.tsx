@@ -41,7 +41,7 @@ export default function Header() {
             </div>
           </motion.div>
           <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
-            Crowns Cards
+            Crown Cards
           </span>
         </Link>
 
@@ -62,7 +62,7 @@ export default function Header() {
             <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-500 group-hover:w-full transition-all" />
           </Link>
           <motion.a
-            href="https://app.crownscards.org/"
+            href="https://app.crowncards.org/"
             target="_blank"
             rel="noopener noreferrer"
             className="relative overflow-hidden bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-2.5 rounded-xl font-semibold transition-all hover:shadow-lg hover:shadow-blue-500/25"
@@ -120,7 +120,7 @@ export default function Header() {
                 Contact
               </Link>
               <a
-                href="https://app.crownscards.org/"
+                href="https://app.crowncards.org/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-3 rounded-xl font-semibold text-center mt-2"

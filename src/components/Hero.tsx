@@ -101,7 +101,7 @@ export default function Hero() {
           className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16"
         >
           <motion.a
-            href="https://app.crownscards.org/"
+            href="https://app.crowncards.org/"
             target="_blank"
             rel="noopener noreferrer"
             className="relative group px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl font-semibold text-lg transition-all hover:shadow-xl hover:shadow-blue-500/30"
