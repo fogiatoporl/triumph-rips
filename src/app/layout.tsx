@@ -2,21 +2,21 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Crown Cards - Digital Card Packs",
+  title: "Crowns Cards - Digital Card Packs",
   description:
     "Open digital packs, collect authentic  cards, and build your collection.",
   icons: {
     icon: "/favicon.png",
   },
   openGraph: {
-    title: "Crown Cards",
+    title: "Crowns Cards",
     description:
       "Open digital packs, collect authentic  cards, and build your collection.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Crown Cards",
+    title: "Crowns Cards",
     description:
       "Open digital packs, collect authentic  cards, and build your collection.",
   },

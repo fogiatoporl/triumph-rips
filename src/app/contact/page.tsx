@@ -73,8 +73,8 @@ export default function ContactPage() {
       ),
       title: "Email Support",
       description: "Our team typically responds within 24 hours",
-      contact: "support@crowncards.org",
-      href: "mailto:support@crowncards.org",
+      contact: "support@crownscards.org",
+      href: "mailto:support@crownscards.org",
     },
     {
       icon: (
@@ -99,7 +99,7 @@ export default function ContactPage() {
         </svg>
       ),
       title: "Office Address",
-      description: "Crown Cards, LLC",
+      description: "Crowns Cards, LLC",
       contact: "2106 House Ave Ste 456, Cheyenne, WY 82001",
       href: "https://maps.google.com/?q=2106+House+Ave+Ste+456+Cheyenne+WY+82001",
     },
@@ -122,7 +122,7 @@ export default function ContactPage() {
       title: "Help Center",
       description: "Browse our FAQ and documentation",
       contact: "Visit FAQ",
-      href: "https://app.crowncards.org/legal/regulatory",
+      href: "https://app.crownscards.org/legal/regulatory",
     },
   ];
 

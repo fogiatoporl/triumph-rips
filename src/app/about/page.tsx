@@ -125,7 +125,7 @@ export default function AboutPage() {
           {/* Hero */}
           <motion.div variants={itemVariants} className="text-center mb-20">
             <span className="text-blue-400 font-semibold text-sm tracking-wider uppercase">
-              About Crown Cards
+              About Crowns Cards
             </span>
             <h1 className="text-4xl md:text-6xl font-bold mt-4 mb-6">
               Reimagining how you{" "}
@@ -134,7 +134,7 @@ export default function AboutPage() {
               </span>
             </h1>
             <p className="text-slate-400 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
-              Crown Cards was founded with a simple mission: make collecting
+              Crowns Cards was founded with a simple mission: make collecting
               cards more accessible, transparent, and exciting for everyone.
             </p>
           </motion.div>
@@ -154,7 +154,7 @@ export default function AboutPage() {
                     ever pull that chase card.
                   </p>
                   <p>
-                    Crown Cards was born from the idea that opening packs should
+                    Crowns Cards was born from the idea that opening packs should
                     be thrilling without the uncertainty. What if every card was
                     authenticated? What if you could always sell at fair value?
                     What if your collection was always secure?
@@ -241,7 +241,7 @@ export default function AboutPage() {
               Start building your collection with confidence today.
             </p>
             <motion.a
-              href="https://app.crowncards.org/"
+              href="https://app.crownscards.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl font-semibold text-lg hover:shadow-xl hover:shadow-blue-500/30 transition-all"
