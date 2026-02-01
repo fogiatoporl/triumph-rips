@@ -108,7 +108,7 @@ export default function AboutPage() {
     { value: "50,000+", label: "Cards Available" },
     { value: "10,000+", label: "Happy Collectors" },
     { value: "99.9%", label: "Satisfaction Rate" },
-    { value: "$2M+", label: "Cards Shipped" },
+    { value: "$2M+", label: "Cards Value Available" },
   ];
 
   return (
